@@ -16,7 +16,7 @@ Certificado: https://www.devmedia.com.br/certificado/tecnologia/sql/mathews-frei
 
 ✏️ Atualmente Estudando
 - C#
-- POO 
+- OOP
 - Cursando Superior em Análise e Desenvolvimento de sistemas
 
 🚶 Próximos Passos
