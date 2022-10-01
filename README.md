@@ -14,17 +14,6 @@ Certificado: https://www.devmedia.com.br/certificado/tecnologia/algoritmo/mathew
 - SQL - 2021
 Certificado: https://www.devmedia.com.br/certificado/tecnologia/sql/mathews-freire
 
-✏️ Atualmente Estudando
-- C#
-- OOP
-- Cursando Superior em Análise e Desenvolvimento de sistemas
-
-🚶 Próximos Passos
-- .NET
-- HTML
-- CSS
-- JavaScript
-- Python
 
 💭"A persistência é o caminho do êxito."
 - Charles Chaplin
