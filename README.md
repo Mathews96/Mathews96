@@ -7,7 +7,9 @@ Desenvolvedor: ⏳
 - Estagiário🏆✅
 
 ⚡ Principais Habilidades
-- C# - 2022 (Cursando)
+- .NET - 2022
+Certificado: https://www.devmedia.com.br/certificado/tecnologia/net/mathews-freire
+- C# - 2022 
 Certificado: https://www.devmedia.com.br/certificado/tecnologia/csharp/mathews-freire
 - Algoritmo - 2022
 Certificado: https://www.devmedia.com.br/certificado/tecnologia/algoritmo/mathews-freire
