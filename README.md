@@ -9,6 +9,8 @@ Desenvolvedor: ⏳
 ⚡ Principais Habilidades
 - .NET - 2022
 Certificado: https://www.devmedia.com.br/certificado/tecnologia/net/mathews-freire
+- MVC - 2022
+Certificado: https://www.devmedia.com.br/certificado/tecnologia/mvc/mathews-freire
 - C# - 2022 
 Certificado: https://www.devmedia.com.br/certificado/tecnologia/csharp/mathews-freire
 - Algoritmo - 2022
