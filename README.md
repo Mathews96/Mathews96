@@ -34,7 +34,8 @@ Certificado: https://www.devmedia.com.br/certificado/tecnologia/sql/mathews-frei
   <a href="https://www.devmedia.com.br/certificado/tecnologia/sql/mathews-freire" target="_blank"><img align="center" alt="Mathews-Sql" height="40" width="40" src="https://i.imgur.com/jRjNOuk.jpg">   </a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/algoritmo/mathews-freire" target="_blank"><img align="center" alt="Mathews-Alg" height="40" width="40" src="https://i.imgur.com/0IcKcEo.jpg">   </a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/mvc/mathews-freire" target="_blank"><img align="center" alt="Mathews-MVC" height="40" width="40"
-src="https://i.imgur.com/DEjGxhY.png"><a/>                                                                                                       
+src="https://i.imgur.com/DEjGxhY.png"><a/>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/html/mathews-freire" target="_blank"><img align="center" alt="Mathews-HTML" height="40" width="40" src="https://i.imgur.com/rHDovBy.jpg"></a>
 </div>
   
 ##
