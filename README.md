@@ -1,10 +1,4 @@
-👨‍💻 Meta:
-Desenvolvedor: ⏳
-- Pleno ⏳
-- Senior ⏳
-- Junior ⏳
-- Trainee ⏳
-- Estagiário🏆✅
+👨‍💻 - Desenvolvedor Junior 
 
 ⚡ Principais Habilidades
 - .NET - 2022
